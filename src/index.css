@@ -1,13 +1,162 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+td {
+  text-align: left;
+  padding: 0;
+}
+
+.table__head,
+.table__row {
+  display: flex;
+  flex-direction: row;
+  min-width: 100%;
+}
+
+.table__row {
+  padding: 8px 0;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.table__head {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  align-items: center;
+}
+
+.table__head div {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.table__inside {
+  display: flex;
+  flex-direction: column;
+}
+
+.table__inside__row {
+  display: flex;
+  flex-direction: row;
+  padding: 4px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.table__inside__row:last-child {
+  padding-bottom: 0;
+  border: 0;
+}
+
+.table__inside--row {
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+}
+
+.col__1 {
+  min-width: 40px;
+  padding-left: 4px;
+}
+
+.col__1__1 {
+  min-width: 80px;
+}
+
+.col__1__2 {
+  min-width: 120px;
+}
+
+.col__2 {
+  min-width: 120px;
+}
+
+.col__3 {
+  min-width: 150px;
+}
+
+.col__4 {
+  min-width: 100px;
+}
+
+.col__5 {
+  min-width: 300px;
+}
+
+.col__6 {
+  min-width: 100px;
+}
+
+.col__7 {
+  min-width: 600px;
+}
+
+.col__7__1 {
+  min-width: 50px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.col__7__2 {
+  min-width: 350px;
+}
+
+.col__7__3 {
+  min-width: 200px;
+}
+
+.col__8 {
+  min-width: 245px;
+}
+
+.col__1 {
+  font-size: 12px;
+}
+.col__2,
+.col__6,
+.col__1__1,
+.col__1__2 {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.col__8 .table__inside__row {
+  background: #9ad7ff;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-bottom: 4px;
+  margin-left: 10px;
+}
+.col__8 .table__inside__row div {
+  padding-right: 5px;
+}
+
+.col {
+  text-align: center;
+  padding: 2px 1px;
+  border-radius: 5px;
+  margin-right: 5px;
+  height: fit-content;
+}
+.col--eso {
+  background: #ffdc7d;
+}
+.col--bach {
+  background: #d7b9fb;
+}
+.col--ciclo {
+  background: #b9fbbb;
 }
