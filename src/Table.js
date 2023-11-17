@@ -1,11 +1,12 @@
 import React, { useState, useCallback, useEffect } from "react";
 import update from "immutability-helper";
 import * as XLSX from "xlsx";
-//import FormGroup from "@mui/material/FormGroup";
-//import FormControlLabel from "@mui/material/FormControlLabel";
-//import Switch from "@mui/material/Switch";
-
 import TableRow from "./TableRow";
+import Stack from "@mui/material/Stack";
+import Button from "@mui/material/Button";
+import DownloadIcon from "@mui/icons-material/Download";
+import EditIcon from "@mui/icons-material/Edit";
+import EditOffIcon from "@mui/icons-material/EditOff";
 
 const Table = ({ data }) => {
   const savedData = JSON.parse(localStorage.getItem("sortedData")) || data;
@@ -75,18 +76,21 @@ const Table = ({ data }) => {
     );
   }, []);
 
-  const renderRow = useCallback((item, index) => {
-    return (
-      <TableRow
-        id={item["codigo_centro"]}
-        key={item["codigo_centro"]}
-        item={item}
-        index={index}
-        moveRow={moveRow}
-        canDrag={canDrag}
-      />
-    );
-  }, [moveRow, canDrag]);
+  const renderRow = useCallback(
+    (item, index) => {
+      return (
+        <TableRow
+          id={item["codigo_centro"]}
+          key={item["codigo_centro"]}
+          item={item}
+          index={index}
+          moveRow={moveRow}
+          canDrag={canDrag}
+        />
+      );
+    },
+    [moveRow, canDrag]
+  );
 
   const transformDataForExport = (data) => {
     return data.map((item) => {
@@ -123,6 +127,15 @@ const Table = ({ data }) => {
         newItem.distancia = ""; // En caso de que no haya 'distancia'
       }
 
+      // Concatenar 'listado' en una sola cadena con saltos de línea, si existe
+      if (item.listado && item.listado.length > 0) {
+        newItem.listado = item.listado
+          .map((listado, index) => `${listado}${item.listado.length === 2 && index === 0 ? ', ' : ''}`)
+          .join("\n\n");
+      } else {
+        newItem.listado = ""; // En caso de que no haya 'listado'
+      }
+
       return newItem;
     });
   };
@@ -135,26 +148,37 @@ const Table = ({ data }) => {
     XLSX.writeFile(wb, "listado_exportado.xlsx");
   };
 
-  //<FormGroup>
-  // <FormControlLabel control={<Switch defaultChecked />} label="Ver listado II: Centros públicos de Educación Secundaria y CIFP" />
-  //  <FormControlLabel control={<Switch onChange={handleChange} />} label="Ver listado IV: Centros con Secciones Lingüísticas y Bilingües" />
-  //</FormGroup>
-
   return (
     <>
-      <div>
+      <div className="head">
         <h1>Concurso de traslados JCYL 2023/2024 - PES</h1>
         <h4>Partiendo desde Burgos</h4>
-        <label>Editar listado </label>
-        <button onClick={() => setCanDrag(!canDrag)}>
-          {canDrag ? "Deshabilitar" : "Habilitar"}
-        </button>
-        <label>Descargar listado ordenado </label>
-        <button onClick={exportToExcel}>Exportar</button>
+        <p>
+          Incluidos los listados <span className="list list__II">II</span>
+          <span className="list list__IV">IV</span>
+          <span className="list list__VI">VI</span>
+        </p>
+        <Stack direction="row" spacing={2}>
+          <Button
+            variant="contained"
+            onClick={() => setCanDrag(!canDrag)}
+            startIcon={canDrag ? <EditOffIcon /> : <EditIcon />}
+          >
+            {canDrag ? "Deshabilitar editar listado" : "Editar listado"}
+          </Button>
+          <Button
+            variant="contained"
+            onClick={exportToExcel}
+            startIcon={<DownloadIcon />}
+          >
+            Descargar listado ordenado en Excel
+          </Button>
+        </Stack>
       </div>
       <div>
         <div className="table__head">
           <div className="col__1">Nº</div>
+          <div className="col__1__0">Listado</div>
           <div className="col__1__1" onClick={() => sortData("km")}>
             Distancia
           </div>

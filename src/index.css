@@ -17,6 +17,30 @@ td {
   padding: 0;
 }
 
+.list {
+  padding: 3px 6px;
+  margin-right: 6px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.list__II {
+  background: #5ec4ff;
+}
+
+.list__IV {
+  background: #ff5ef3;
+}
+
+.list__VI {
+  background: #ffa77d;
+}
+
+.head {
+  margin: 20px;
+}
+
 .table__head,
 .table__row {
   display: flex;
@@ -35,6 +59,7 @@ td {
   top: 0;
   background: #fff;
   align-items: center;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 .table__head div {
@@ -70,6 +95,12 @@ td {
   padding-left: 4px;
 }
 
+.col__1__0 {
+  min-width: 60px;
+  display: inline-flex;
+  height: fit-content;
+}
+
 .col__1__1 {
   min-width: 80px;
 }
@@ -80,18 +111,23 @@ td {
 
 .col__2 {
   min-width: 120px;
+  font-size: 14px;
 }
 
 .col__3 {
   min-width: 150px;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 .col__4 {
   min-width: 100px;
+  font-size: 14px;
 }
 
 .col__5 {
   min-width: 300px;
+  font-size: 14px;
 }
 
 .col__6 {
@@ -100,6 +136,7 @@ td {
 
 .col__7 {
   min-width: 600px;
+  font-size: 14px;
 }
 
 .col__7__1 {
@@ -133,7 +170,7 @@ td {
 
 .col__8 .table__inside__row {
   background: #9ad7ff;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: bold;
   padding: 4px 8px;
   border-radius: 5px;

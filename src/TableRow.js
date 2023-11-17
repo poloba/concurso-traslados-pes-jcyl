@@ -78,7 +78,7 @@ const TableRow = ({ id, item, index, moveRow, canDrag }) => {
   });
 
   const opacity = isDragging ? 0 : 1;
-  const cursor = isDragging ? 'move' : 'auto';
+  const cursor = isDragging ? "move" : "auto";
 
   useEffect(() => {
     if (canDrag) {
@@ -96,30 +96,34 @@ const TableRow = ({ id, item, index, moveRow, canDrag }) => {
       className="table__row"
     >
       <div className="col__1">{index + 1}</div>
+      <div className="col__1__0">
+        {item["listado"] && item["listado"].map((list) => <div className={`list list__${list}`}>{list}</div>)}
+      </div>
       <div className="col__1__1">{item["distancia"].km}</div>
       <div className="col__1__2">{item["distancia"].tiempo}</div>
       <div className="col__2">{item["codigo_centro"]}</div>
       <div className="col__5 table__row__div">{item["denominacion"]}</div>
       <div className="col__3">{item["localidad"]}</div>
       <div className="col__4">{item["provincia"]}</div>
-      <div className="col__6">{item["codigo-localidad"]}</div>
+      <div className="col__6">{item["codigo-localidad"] && item["codigo-localidad"]}</div>
       <div className="col__7 table__inside">
-        {item["detalles"].map((item, index) => (
-          <div className="table__inside__row">
-            <div
-              className={clsx(
-                "col__7__1 col",
-                item.nivel === "ESO" && "col--eso",
-                item.nivel === "BACH" && "col--bach",
-                item.nivel !== "BACH" && item.nivel !== "ESO" && "col--ciclo",
-              )}
-            >
-              {item.nivel}
+        {item["detalles"] &&
+          item["detalles"].map((item, index) => (
+            <div className="table__inside__row">
+              <div
+                className={clsx(
+                  "col__7__1 col",
+                  item.nivel === "ESO" && "col--eso",
+                  item.nivel === "BACH" && "col--bach",
+                  item.nivel !== "BACH" && item.nivel !== "ESO" && "col--ciclo"
+                )}
+              >
+                {item.nivel}
+              </div>
+              <div className="col__7__2">{item.loe}</div>
+              {item.extra && <div className="col__7__3">{item.extra}</div>}
             </div>
-            <div className="col__7__2">{item.loe}</div>
-            {item.extra && <div className="col__7__3">{item.extra}</div>}
-          </div>
-        ))}
+          ))}
       </div>
       <div className="col__8 table__inside--row">
         {item["secciones"] &&
@@ -130,7 +134,7 @@ const TableRow = ({ id, item, index, moveRow, canDrag }) => {
             </div>
           ))}
       </div>
-      <div className="col__8">{item["poblacion"]}</div>
+      <div className="col__8">{item["poblacion"] && item["poblacion"]}</div>
     </div>
   );
 };

@@ -38,7 +38,8 @@
     "distancia": {
       "km": "336 km",
       "tiempo": "3 horas 28 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05009871C",
@@ -69,7 +70,8 @@
     "distancia": {
       "km": "341 km",
       "tiempo": "3 horas 40 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05009923C",
@@ -113,7 +115,8 @@
     "distancia": {
       "km": "341 km",
       "tiempo": "3 horas 40 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05000427C",
@@ -161,7 +164,8 @@
     "distancia": {
       "km": "211 km",
       "tiempo": "2 horas 1 min"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05005462C",
@@ -204,7 +208,8 @@
     "distancia": {
       "km": "211 km",
       "tiempo": "2 horas 1 min"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05000701C",
@@ -254,7 +259,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05000725C",
@@ -304,7 +310,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05000737C",
@@ -357,7 +364,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05006156C",
@@ -397,7 +405,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05009571C",
@@ -439,7 +448,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05009698C",
@@ -473,7 +483,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05000774C",
@@ -500,7 +511,8 @@
     "distancia": {
       "km": "263 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05005395C",
@@ -548,7 +560,8 @@
     "distancia": {
       "km": "340 km",
       "tiempo": "3 horas 24 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05006387C",
@@ -584,7 +597,8 @@
     "distancia": {
       "km": "361 km",
       "tiempo": "3 horas 50 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05001547C",
@@ -620,7 +634,8 @@
     "distancia": {
       "km": "307 km",
       "tiempo": "3 horas 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05006429C",
@@ -643,7 +658,8 @@
     "distancia": {
       "km": "237 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05002291C",
@@ -666,7 +682,8 @@
     "distancia": {
       "km": "301 km",
       "tiempo": "3 horas 14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05006430C",
@@ -704,7 +721,8 @@
     "distancia": {
       "km": "303 km",
       "tiempo": "3 horas 7 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05006399C",
@@ -740,7 +758,8 @@
     "distancia": {
       "km": "295 km",
       "tiempo": "3 horas 4 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05003775C",
@@ -771,7 +790,8 @@
     "distancia": {
       "km": "292 km",
       "tiempo": "3 horas 7 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "05006478C",
@@ -801,7 +821,8 @@
     "distancia": {
       "km": "330 km",
       "tiempo": "3 horas 21 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "05004846C",
@@ -844,7 +865,8 @@
     "distancia": {
       "km": "309 km",
       "tiempo": "3 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09000291C",
@@ -882,7 +904,8 @@
     "distancia": {
       "km": "83.5 km",
       "tiempo": "52 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09007684C",
@@ -945,7 +968,8 @@
     "distancia": {
       "km": "83.5 km",
       "tiempo": "52 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09008366C",
@@ -991,7 +1015,8 @@
     "distancia": {
       "km": "83.5 km",
       "tiempo": "52 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09012187C",
@@ -1035,7 +1060,8 @@
     "distancia": {
       "km": "83.5 km",
       "tiempo": "52 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09008652C",
@@ -1073,7 +1099,8 @@
     "distancia": {
       "km": "44.3 km",
       "tiempo": "41 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09007933C",
@@ -1111,7 +1138,8 @@
     "distancia": {
       "km": "41.3 km",
       "tiempo": "32 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09001670C",
@@ -1156,7 +1184,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09001682C",
@@ -1202,7 +1231,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09001694C",
@@ -1238,7 +1268,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09001815C",
@@ -1277,7 +1308,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09007741C",
@@ -1324,7 +1356,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09007751C",
@@ -1381,7 +1414,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09008263C",
@@ -1439,7 +1473,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09008378C",
@@ -1470,7 +1505,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09008536C",
@@ -1509,7 +1545,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09012096C",
@@ -1543,7 +1580,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09012126C",
@@ -1582,7 +1620,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09012163C",
@@ -1606,7 +1645,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09001785C",
@@ -1633,7 +1673,8 @@
     "distancia": {
       "km": "4.7 km",
       "tiempo": "14 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09008998C",
@@ -1656,7 +1697,8 @@
     "distancia": {
       "km": "97.5 km",
       "tiempo": "1 hora 30 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09007696C",
@@ -1692,7 +1734,8 @@
     "distancia": {
       "km": "38.8 km",
       "tiempo": "26 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09003605C",
@@ -1730,7 +1773,8 @@
     "distancia": {
       "km": "80.8 km",
       "tiempo": "1 hora 15 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09008949C",
@@ -1764,7 +1808,8 @@
     "distancia": {
       "km": "54.8 km",
       "tiempo": "35 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09004142C",
@@ -1824,7 +1869,8 @@
     "distancia": {
       "km": "76.6 km",
       "tiempo": "55 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09007787C",
@@ -1862,7 +1908,8 @@
     "distancia": {
       "km": "76.6 km",
       "tiempo": "55 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09012229C",
@@ -1906,7 +1953,8 @@
     "distancia": {
       "km": "76.6 km",
       "tiempo": "55 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09005021C",
@@ -1937,7 +1985,8 @@
     "distancia": {
       "km": "82.8 km",
       "tiempo": "1 hora 4 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09008639C",
@@ -1975,7 +2024,8 @@
     "distancia": {
       "km": "84.9 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09008548C",
@@ -2013,7 +2063,8 @@
     "distancia": {
       "km": "58.2 km",
       "tiempo": "44 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "09008937C",
@@ -2044,7 +2095,8 @@
     "distancia": {
       "km": "114 km",
       "tiempo": "1 hora 44 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09008809C",
@@ -2071,7 +2123,8 @@
     "distancia": {
       "km": "45.7 km",
       "tiempo": "33 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "09007179C",
@@ -2129,7 +2182,8 @@
     "distancia": {
       "km": "75.6 km",
       "tiempo": "1 hora 8 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24018775C",
@@ -2187,7 +2241,8 @@
     "distancia": {
       "km": "222 km",
       "tiempo": "2 horas 2 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24000655C",
@@ -2230,7 +2285,8 @@
     "distancia": {
       "km": "213 km",
       "tiempo": "2 horas 8 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24000679C",
@@ -2283,7 +2339,8 @@
     "distancia": {
       "km": "213 km",
       "tiempo": "2 horas 8 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24000990C",
@@ -2319,7 +2376,8 @@
     "distancia": {
       "km": "265 km",
       "tiempo": "2 horas 25 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24016225C",
@@ -2372,7 +2430,8 @@
     "distancia": {
       "km": "265 km",
       "tiempo": "2 horas 25 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24001106C",
@@ -2402,7 +2461,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "1 hora 57 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24018787C",
@@ -2440,7 +2500,8 @@
     "distancia": {
       "km": "204 km",
       "tiempo": "1 hora 58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24002160C",
@@ -2478,7 +2539,8 @@
     "distancia": {
       "km": "296 km",
       "tiempo": "2 horas 42 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24002494C",
@@ -2509,7 +2571,8 @@
     "distancia": {
       "km": "199 km",
       "tiempo": "1 hora 54 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24018210C",
@@ -2547,7 +2610,8 @@
     "distancia": {
       "km": "175 km",
       "tiempo": "1 hora 47 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24018222C",
@@ -2583,7 +2647,8 @@
     "distancia": {
       "km": "297 km",
       "tiempo": "2 horas 54 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24005355C",
@@ -2626,7 +2691,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24005987C",
@@ -2666,7 +2732,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24006037C",
@@ -2711,7 +2778,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24006049C",
@@ -2764,7 +2832,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24006050C",
@@ -2808,7 +2877,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24006128C",
@@ -2861,7 +2931,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24017497C",
@@ -2903,7 +2974,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24017734C",
@@ -2942,7 +3014,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24017904C",
@@ -2988,7 +3061,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24022195C",
@@ -3032,7 +3106,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24022250C",
@@ -3071,7 +3146,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24016791C",
@@ -3098,7 +3174,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24018738C",
@@ -3121,7 +3198,8 @@
     "distancia": {
       "km": "158 km",
       "tiempo": "1 hora 26 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24018741C",
@@ -3151,7 +3229,8 @@
     "distancia": {
       "km": "213 km",
       "tiempo": "2 horas 3 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24016584C",
@@ -3209,7 +3288,8 @@
     "distancia": {
       "km": "285 km",
       "tiempo": "2 horas 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24008381C",
@@ -3250,7 +3330,8 @@
     "distancia": {
       "km": "285 km",
       "tiempo": "2 horas 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24008393C",
@@ -3293,7 +3374,8 @@
     "distancia": {
       "km": "285 km",
       "tiempo": "2 horas 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24008411C",
@@ -3354,7 +3436,8 @@
     "distancia": {
       "km": "285 km",
       "tiempo": "2 horas 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24017916C",
@@ -3385,7 +3468,8 @@
     "distancia": {
       "km": "285 km",
       "tiempo": "2 horas 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24022432C",
@@ -3419,7 +3503,8 @@
     "distancia": {
       "km": "285 km",
       "tiempo": "2 horas 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24018751C",
@@ -3449,7 +3534,8 @@
     "distancia": {
       "km": "324 km",
       "tiempo": "3 horas 5 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24022501C",
@@ -3472,7 +3558,8 @@
     "distancia": {
       "km": "170 km",
       "tiempo": "2 horas 3 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24009610C",
@@ -3515,7 +3602,8 @@
     "distancia": {
       "km": "205 km",
       "tiempo": "1 hora 56 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24018234C",
@@ -3558,7 +3646,8 @@
     "distancia": {
       "km": "123 km",
       "tiempo": "1 hora 8 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24016481C",
@@ -3611,7 +3700,8 @@
     "distancia": {
       "km": "184 km",
       "tiempo": "1 hora 46 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24010995C",
@@ -3654,7 +3744,8 @@
     "distancia": {
       "km": "197 km",
       "tiempo": "1 hora 54 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24016912C",
@@ -3692,7 +3783,8 @@
     "distancia": {
       "km": "281 km",
       "tiempo": "2 horas 37 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24012803C",
@@ -3730,7 +3822,8 @@
     "distancia": {
       "km": "173 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24018544C",
@@ -3783,7 +3876,8 @@
     "distancia": {
       "km": "180 km",
       "tiempo": "1 hora 40 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24013315C",
@@ -3813,7 +3907,8 @@
     "distancia": {
       "km": "185 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24014150C",
@@ -3849,7 +3944,8 @@
     "distancia": {
       "km": "276 km",
       "tiempo": "2 horas 47 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24016602C",
@@ -3902,7 +3998,8 @@
     "distancia": {
       "km": "276 km",
       "tiempo": "2 horas 47 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "24014630C",
@@ -3933,7 +4030,8 @@
     "distancia": {
       "km": "305 km",
       "tiempo": "2 horas 45 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "24015403C",
@@ -3976,7 +4074,8 @@
     "distancia": {
       "km": "210 km",
       "tiempo": "1 hora 54 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34003932C",
@@ -4024,7 +4123,8 @@
     "distancia": {
       "km": "83.4 km",
       "tiempo": "1 hora 2 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34003749C",
@@ -4061,7 +4161,8 @@
     "distancia": {
       "km": "90.1 km",
       "tiempo": "54 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "34000581C",
@@ -4099,7 +4200,8 @@
     "distancia": {
       "km": "89.6 km",
       "tiempo": "52 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34003890C",
@@ -4129,7 +4231,8 @@
     "distancia": {
       "km": "129 km",
       "tiempo": "1 hora 21 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34007159C",
@@ -4191,7 +4294,8 @@
     "distancia": {
       "km": "134 km",
       "tiempo": "1 hora 27 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34003919C",
@@ -4221,7 +4325,8 @@
     "distancia": {
       "km": "89.1 km",
       "tiempo": "55 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34001893C",
@@ -4285,7 +4390,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34001901C",
@@ -4338,7 +4444,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34001911C",
@@ -4377,7 +4484,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34001947C",
@@ -4426,7 +4534,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34003038C",
@@ -4469,7 +4578,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "34007007C",
@@ -4503,7 +4613,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "34001959C",
@@ -4530,7 +4641,8 @@
     "distancia": {
       "km": "90.8 km",
       "tiempo": "58 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "34003920C",
@@ -4553,7 +4665,8 @@
     "distancia": {
       "km": "113 km",
       "tiempo": "1 hora 10 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "34003750C",
@@ -4584,7 +4697,8 @@
     "distancia": {
       "km": "102 km",
       "tiempo": "1 hora 5 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "34003907C",
@@ -4607,7 +4721,8 @@
     "distancia": {
       "km": "91.5 km",
       "tiempo": "57 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37010091C",
@@ -4650,7 +4765,8 @@
     "distancia": {
       "km": "260 km",
       "tiempo": "2 horas 44 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37009787C",
@@ -4673,7 +4789,8 @@
     "distancia": {
       "km": "323 km",
       "tiempo": "3 horas 22 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37010017C",
@@ -4716,7 +4833,8 @@
     "distancia": {
       "km": "240 km",
       "tiempo": "2 horas 28 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37001028C",
@@ -4754,7 +4872,8 @@
     "distancia": {
       "km": "323 km",
       "tiempo": "3 horas 8 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37001031C",
@@ -4797,7 +4916,8 @@
     "distancia": {
       "km": "323 km",
       "tiempo": "3 horas 8 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37013626C",
@@ -4831,7 +4951,8 @@
     "distancia": {
       "km": "323 km",
       "tiempo": "3 horas 8 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37002197C",
@@ -4879,7 +5000,8 @@
     "distancia": {
       "km": "331 km",
       "tiempo": "3 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37002227C",
@@ -4922,7 +5044,8 @@
     "distancia": {
       "km": "331 km",
       "tiempo": "3 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37008205C",
@@ -4965,7 +5088,8 @@
     "distancia": {
       "km": "298 km",
       "tiempo": "2 horas 52 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37010108C",
@@ -5001,7 +5125,8 @@
     "distancia": {
       "km": "297 km",
       "tiempo": "2 horas 54 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37010121C",
@@ -5024,7 +5149,8 @@
     "distancia": {
       "km": "277 km",
       "tiempo": "2 horas 48 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37009881C",
@@ -5047,7 +5173,8 @@
     "distancia": {
       "km": "298 km",
       "tiempo": "3 horas 0 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37010078C",
@@ -5078,7 +5205,8 @@
     "distancia": {
       "km": "337 km",
       "tiempo": "3 horas 29 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37009532C",
@@ -5108,7 +5236,8 @@
     "distancia": {
       "km": "246 km",
       "tiempo": "2 horas 33 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37013882C",
@@ -5156,7 +5285,8 @@
     "distancia": {
       "km": "235 km",
       "tiempo": "2 horas 25 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37005851C",
@@ -5200,7 +5330,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37005861C",
@@ -5243,7 +5374,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37005873C",
@@ -5291,7 +5423,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37005939C",
@@ -5322,7 +5455,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37006014C",
@@ -5365,7 +5499,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37008084C",
@@ -5408,7 +5543,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37008102C",
@@ -5451,7 +5587,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37008217C",
@@ -5503,7 +5640,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37008904C",
@@ -5535,7 +5673,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37009131C",
@@ -5582,7 +5721,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37009271C",
@@ -5625,7 +5765,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37013341C",
@@ -5659,7 +5800,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37006002C",
@@ -5686,7 +5828,8 @@
     "distancia": {
       "km": "244 km",
       "tiempo": "2 horas 27 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37009283C",
@@ -5724,7 +5867,8 @@
     "distancia": {
       "km": "256 km",
       "tiempo": "2 horas 33 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37009921C",
@@ -5777,7 +5921,8 @@
     "distancia": {
       "km": "256 km",
       "tiempo": "2 horas 33 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37000966C",
@@ -5800,7 +5945,8 @@
     "distancia": {
       "km": "270 km",
       "tiempo": "2 horas 43 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "37013407C",
@@ -5830,7 +5976,8 @@
     "distancia": {
       "km": "246 km",
       "tiempo": "2 horas 25 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "37007729C",
@@ -5871,7 +6018,8 @@
     "distancia": {
       "km": "310 km",
       "tiempo": "3 horas 10 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40004567C",
@@ -5912,7 +6060,8 @@
     "distancia": {
       "km": "133 km",
       "tiempo": "1 hora 31 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40000550C",
@@ -5955,7 +6104,8 @@
     "distancia": {
       "km": "142 km",
       "tiempo": "1 hora 31 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40004725C",
@@ -5993,7 +6143,8 @@
     "distancia": {
       "km": "182 km",
       "tiempo": "1 hora 58 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40000835C",
@@ -6024,7 +6175,8 @@
     "distancia": {
       "km": "186 km",
       "tiempo": "1 hora 57 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40000951C",
@@ -6062,7 +6214,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 44 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40004257C",
@@ -6110,7 +6263,8 @@
     "distancia": {
       "km": "178 km",
       "tiempo": "1 hora 44 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40004521C",
@@ -6158,7 +6312,8 @@
     "distancia": {
       "km": "236 km",
       "tiempo": "2 horas 28 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40002169C",
@@ -6194,7 +6349,8 @@
     "distancia": {
       "km": "196 km",
       "tiempo": "2 horas 5 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40004877C",
@@ -6217,7 +6373,8 @@
     "distancia": {
       "km": "154 km",
       "tiempo": "1 hora 30 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40008718C",
@@ -6240,7 +6397,8 @@
     "distancia": {
       "km": "143 km",
       "tiempo": "1 hora 26 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40005018C",
@@ -6271,7 +6429,8 @@
     "distancia": {
       "km": "201 km",
       "tiempo": "2 horas 7 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40004750C",
@@ -6302,7 +6461,8 @@
     "distancia": {
       "km": "213 km",
       "tiempo": "2 horas 12 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40003642C",
@@ -6352,7 +6512,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40003654C",
@@ -6390,7 +6551,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40003666C",
@@ -6448,7 +6610,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40003678C",
@@ -6510,7 +6673,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40003708C",
@@ -6557,7 +6721,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40004351C",
@@ -6605,7 +6770,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40008536C",
@@ -6644,7 +6810,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40003711C",
@@ -6667,7 +6834,8 @@
     "distancia": {
       "km": "206 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "40003770C",
@@ -6697,7 +6865,8 @@
     "distancia": {
       "km": "137 km",
       "tiempo": "1 hora 22 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "40004932C",
@@ -6720,7 +6889,8 @@
     "distancia": {
       "km": "254 km",
       "tiempo": "2 horas 24 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "42003670C",
@@ -6758,7 +6928,8 @@
     "distancia": {
       "km": "196 km",
       "tiempo": "2 horas 21 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42003268C",
@@ -6796,7 +6967,8 @@
     "distancia": {
       "km": "196 km",
       "tiempo": "2 horas 1 min"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42000437C",
@@ -6839,7 +7011,8 @@
     "distancia": {
       "km": "232 km",
       "tiempo": "2 horas 35 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42003761C",
@@ -6892,7 +7065,8 @@
     "distancia": {
       "km": "146 km",
       "tiempo": "1 hora 30 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42003682C",
@@ -6930,7 +7104,8 @@
     "distancia": {
       "km": "99.1 km",
       "tiempo": "1 hora 20 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42004029C",
@@ -6965,7 +7140,8 @@
     "distancia": {
       "km": "189 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42003700C",
@@ -7008,7 +7184,8 @@
     "distancia": {
       "km": "133 km",
       "tiempo": "1 hora 20 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42003864C",
@@ -7046,7 +7223,8 @@
     "distancia": {
       "km": "89.5 km",
       "tiempo": "1 hora 3 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42002690C",
@@ -7091,7 +7269,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42002707C",
@@ -7138,7 +7317,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42002720C",
@@ -7197,7 +7377,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42002744C",
@@ -7255,7 +7436,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "42007195C",
@@ -7284,7 +7466,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "42007213C",
@@ -7333,7 +7516,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "42002732C",
@@ -7360,7 +7544,8 @@
     "distancia": {
       "km": "147 km",
       "tiempo": "1 hora 49 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47011796C",
@@ -7390,7 +7575,8 @@
     "distancia": {
       "km": "134 km",
       "tiempo": "1 hora 18 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47011981C",
@@ -7420,7 +7606,8 @@
     "distancia": {
       "km": "134 km",
       "tiempo": "1 hora 18 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47011607C",
@@ -7443,7 +7630,8 @@
     "distancia": {
       "km": "142 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47001353C",
@@ -7466,7 +7654,8 @@
     "distancia": {
       "km": "118 km",
       "tiempo": "1 hora 11 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47012065C",
@@ -7489,7 +7678,8 @@
     "distancia": {
       "km": "130 km",
       "tiempo": "1 hora 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47007318C",
@@ -7525,7 +7715,8 @@
     "distancia": {
       "km": "165 km",
       "tiempo": "1 hora 39 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47007461C",
@@ -7568,7 +7759,8 @@
     "distancia": {
       "km": "135 km",
       "tiempo": "1 hora 20 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007719C",
@@ -7604,7 +7796,8 @@
     "distancia": {
       "km": "135 km",
       "tiempo": "1 hora 20 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47001390C",
@@ -7642,7 +7835,8 @@
     "distancia": {
       "km": "181 km",
       "tiempo": "1 hora 46 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47001419C",
@@ -7673,7 +7867,8 @@
     "distancia": {
       "km": "181 km",
       "tiempo": "1 hora 46 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47011231C",
@@ -7712,7 +7907,8 @@
     "distancia": {
       "km": "181 km",
       "tiempo": "1 hora 46 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47007306C",
@@ -7748,7 +7944,8 @@
     "distancia": {
       "km": "143 km",
       "tiempo": "1 hora 31 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47011097C",
@@ -7778,7 +7975,8 @@
     "distancia": {
       "km": "153 km",
       "tiempo": "1 hora 32 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47005991C",
@@ -7809,7 +8007,8 @@
     "distancia": {
       "km": "170 km",
       "tiempo": "1 hora 43 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47011221C",
@@ -7832,7 +8031,8 @@
     "distancia": {
       "km": "170 km",
       "tiempo": "1 hora 45 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47007197C",
@@ -7880,7 +8080,8 @@
     "distancia": {
       "km": "120 km",
       "tiempo": "1 hora 17 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47002060C",
@@ -7918,7 +8119,8 @@
     "distancia": {
       "km": "150 km",
       "tiempo": "1 hora 31 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007291C",
@@ -7966,7 +8168,8 @@
     "distancia": {
       "km": "155 km",
       "tiempo": "1 hora 30 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47011188C",
@@ -8004,7 +8207,8 @@
     "distancia": {
       "km": "155 km",
       "tiempo": "1 hora 30 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007057C",
@@ -8035,7 +8239,8 @@
     "distancia": {
       "km": "140 km",
       "tiempo": "1 hora 24 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47004585C",
@@ -8082,7 +8287,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47004597C",
@@ -8121,7 +8327,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47004615C",
@@ -8164,7 +8371,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47004706C",
@@ -8228,7 +8436,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47004913C",
@@ -8276,7 +8485,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47004986C",
@@ -8339,7 +8549,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47005841C",
@@ -8402,7 +8613,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47005863C",
@@ -8433,7 +8645,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47005981C",
@@ -8471,7 +8684,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47006171C",
@@ -8509,7 +8723,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47006533C",
@@ -8561,7 +8776,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47006545C",
@@ -8619,7 +8835,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47006673C",
@@ -8657,7 +8874,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47006697C",
@@ -8700,7 +8918,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007011C",
@@ -8738,7 +8957,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007021C",
@@ -8781,7 +9001,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007070C",
@@ -8830,7 +9051,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47007525C",
@@ -8883,7 +9105,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47010950C",
@@ -8912,7 +9135,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47011309C",
@@ -8950,7 +9174,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "47004858C",
@@ -8977,7 +9202,8 @@
     "distancia": {
       "km": "127 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "47005322C",
@@ -9008,7 +9234,8 @@
     "distancia": {
       "km": "137 km",
       "tiempo": "1 hora 23 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49007528C",
@@ -9039,7 +9266,8 @@
     "distancia": {
       "km": "283 km",
       "tiempo": "2 horas 45 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49000391C",
@@ -9097,7 +9325,8 @@
     "distancia": {
       "km": "224 km",
       "tiempo": "2 horas 9 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49000418C",
@@ -9150,7 +9379,8 @@
     "distancia": {
       "km": "224 km",
       "tiempo": "2 horas 9 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49007619C",
@@ -9185,7 +9415,8 @@
     "distancia": {
       "km": "224 km",
       "tiempo": "2 horas 9 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49007486C",
@@ -9216,7 +9447,8 @@
     "distancia": {
       "km": "262 km",
       "tiempo": "2 horas 34 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49007531C",
@@ -9247,7 +9479,8 @@
     "distancia": {
       "km": "248 km",
       "tiempo": "2 horas 18 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49007255C",
@@ -9270,7 +9503,8 @@
     "distancia": {
       "km": "212 km",
       "tiempo": "1 hora 59 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49007541C",
@@ -9301,7 +9535,8 @@
     "distancia": {
       "km": "218 km",
       "tiempo": "2 horas 11 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49007164C",
@@ -9337,7 +9572,8 @@
     "distancia": {
       "km": "299 km",
       "tiempo": "2 horas 46 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49004576C",
@@ -9375,7 +9611,8 @@
     "distancia": {
       "km": "191 km",
       "tiempo": "1 hora 52 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49004588C",
@@ -9411,7 +9648,8 @@
     "distancia": {
       "km": "191 km",
       "tiempo": "1 hora 52 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49007553C",
@@ -9442,7 +9680,8 @@
     "distancia": {
       "km": "209 km",
       "tiempo": "1 hora 58 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49005994C",
@@ -9495,7 +9734,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49006007C",
@@ -9550,7 +9790,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49006019C",
@@ -9597,7 +9838,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49006020C",
@@ -9638,7 +9880,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49006044C",
@@ -9680,7 +9923,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49006159C",
@@ -9718,7 +9962,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49006378C",
@@ -9766,7 +10011,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49010643C",
@@ -9800,7 +10046,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II"]
   },
   {
     "codigo_centro": "49010655C",
@@ -9838,7 +10085,8 @@
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
-    }
+    },
+    "listado": ["II", "VI"]
   },
   {
     "codigo_centro": "49006433C",
@@ -9862,6 +10110,304 @@
       "longitud": -5.754948,
       "latitud": 41.49914
     },
+    "distancia": {
+      "km": "225 km",
+      "tiempo": "2 horas 16 mins"
+    },
+    "listado": ["II"]
+  },
+  {
+    "provincia": "AVILA",
+    "codigo_centro": "05006545C",
+    "denominacion": "CENTRO DE EDUCACIÓN DE PERSONAS ADULTAS DE AREVALO",
+    "localidad": "AREVALO",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "211 km",
+      "tiempo": "2 horas 1 min"
+    }
+  },
+  {
+    "provincia": "AVILA",
+    "codigo_centro": "05005504C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS DE AVILA",
+    "localidad": "AVILA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "263 km",
+      "tiempo": "2 horas 35 mins"
+    }
+  },
+  {
+    "provincia": "AVILA",
+    "codigo_centro": "05006569C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS DE SOTILLO DE LA ADRADA ",
+    "localidad": "SOTILLO DE LA ADRADA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "309 km",
+      "tiempo": "3 horas 11 mins"
+    }
+  },
+  {
+    "provincia": "AVILA",
+    "codigo_centro": "05006557C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS DE EL TIEMBLO",
+    "localidad": "EL TIEMBLO",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "309 km",
+      "tiempo": "3 horas 11 mins"
+    }
+  },
+  {
+    "provincia": "BURGOS",
+    "codigo_centro": "09008160C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS CONDE DE ARANDA ",
+    "localidad": "ARANDA DE DUERO",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "83.5 km",
+      "tiempo": "52 mins"
+    }
+  },
+  {
+    "provincia": "BURGOS",
+    "codigo_centro": "09001131C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS VICTORIANO CREMER ",
+    "localidad": "BURGOS",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "4.7 km",
+      "tiempo": "14 mins"
+    }
+  },
+  {
+    "provincia": "BURGOS",
+    "codigo_centro": "09008858C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS SAN BRUNO ",
+    "localidad": "BURGOS",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "4.7 km",
+      "tiempo": "14 mins"
+    }
+  },
+  {
+    "provincia": "BURGOS",
+    "codigo_centro": "09008275C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS REAL AQUENDE ",
+    "localidad": "MIRANDA DE EBRO",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "76.6 km",
+      "tiempo": "55 mins"
+    }
+  },
+  {
+    "provincia": "LEON",
+    "codigo_centro": "24018799C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS FAUSTINA ÁLVAREZ GARCÍA ",
+    "localidad": "LEON",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "178 km",
+      "tiempo": "1 hora 39 mins"
+    }
+  },
+  {
+    "provincia": "LEON",
+    "codigo_centro": "24016559C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS RAMON CARNICER ",
+    "localidad": "PONFERRADA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "285 km",
+      "tiempo": "2 horas 39 mins"
+    }
+  },
+  {
+    "provincia": "LEON",
+    "codigo_centro": "24017266C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS SIERRA PAMBLEY ",
+    "localidad": "VILLABLINO",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "276 km",
+      "tiempo": "2 horas 47 mins"
+    }
+  },
+  {
+    "provincia": "PALENCIA",
+    "codigo_centro": "34003087C",
+    "denominacion": "CENTRO DE EDUCACIÓN DE PERSONAS ADULTAS SAN JORGE ",
+    "localidad": "PALENCIA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "90.8 km",
+      "tiempo": "58 mins"
+    }
+  },
+  {
+    "provincia": "SALAMANCA",
+    "codigo_centro": "37008746C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS MATEO HERNANDEZ ",
+    "localidad": "BEJAR",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "323 km",
+      "tiempo": "3 horas 8 mins"
+    }
+  },
+  {
+    "provincia": "SALAMANCA",
+    "codigo_centro": "37008540C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS FRANCISCO GINER DE LOS RIOS ",
+    "localidad": "SALAMANCA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "244 km",
+      "tiempo": "2 horas 27 mins"
+    }
+  },
+  {
+    "provincia": "SALAMANCA",
+    "codigo_centro": "37009957C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS SANTA MARTA DE TORMES ",
+    "localidad": "SANTA MARTA DE TORMES",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "256 km",
+      "tiempo": "2 horas 33 mins"
+    }
+  },
+  {
+    "provincia": "SEGOVIA",
+    "codigo_centro": "40004415C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS ANTONIO MACHADO ",
+    "localidad": "SEGOVIA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "206 km",
+      "tiempo": "2 horas 11 mins"
+    }
+  },
+  {
+    "provincia": "SORIA ",
+    "codigo_centro": "42004091C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS DOÑA JIMENA ",
+    "localidad": "SAN ESTEBAN DE GORMAZ",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "133 km",
+      "tiempo": "1 hora 20 mins"
+    }
+  },
+  {
+    "provincia": "SORIA ",
+    "codigo_centro": "42003347C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS CELTIBERIA ",
+    "localidad": "SORIA",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "147 km",
+      "tiempo": "1 hora 49 mins"
+    }
+  },
+  {
+    "provincia": "VALLADOLID",
+    "codigo_centro": "47007380C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS DE LAGUNA DE DUERO ",
+    "localidad": "LAGUNA DE DUERO ",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "135 km",
+      "tiempo": "1 hora 20 mins"
+    }
+  },
+  {
+    "provincia": "VALLADOLID",
+    "codigo_centro": "47007409C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS BERNAL DÍAZ DEL CASTILLO ",
+    "localidad": "MEDINA DEL CAMPO ",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "181 km",
+      "tiempo": "1 hora 46 mins"
+    }
+  },
+  {
+    "provincia": "VALLADOLID",
+    "codigo_centro": "47006399C ",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS MURO ",
+    "localidad": "VALLADOLID",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "127 km",
+      "tiempo": "1 hora 23 mins"
+    }
+  },
+  {
+    "provincia": "VALLADOLID",
+    "codigo_centro": "47007379C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS FELIPE II ",
+    "localidad": "VALLADOLID",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "127 km",
+      "tiempo": "1 hora 23 mins"
+    }
+  },
+  {
+    "provincia": "VALLADOLID",
+    "codigo_centro": "47007392C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS LA VICTORIA ",
+    "localidad": "VALLADOLID",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "127 km",
+      "tiempo": "1 hora 23 mins"
+    }
+  },
+  {
+    "provincia": "ZAMORA",
+    "codigo_centro": "49006603C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS DE BENAVENTE ",
+    "localidad": "BENAVENTE",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "224 km",
+      "tiempo": "2 horas 9 mins"
+    }
+  },
+  {
+    "provincia": "VALLADOLID",
+    "codigo_centro": "47007446C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS BERNAL VILLA DEL DUERO ",
+    "localidad": "TORDESILLAS",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "155 km",
+      "tiempo": "1 hora 30 mins"
+    }
+  },
+  {
+    "provincia": "ZAMORA",
+    "codigo_centro": "49007115C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS BERNAL LÓPEZ COBOS ",
+    "localidad": "TORO",
+    "listado": ["IV"],
+    "distancia": {
+      "km": "191 km",
+      "tiempo": "1 hora 52 mins"
+    }
+  },
+  {
+    "provincia": "ZAMORA",
+    "codigo_centro": "49006391C",
+    "denominacion": "CENTRO DE EDUCACION DE PERSONAS ADULTAS VIRIATO ",
+    "localidad": "ZAMORA",
+    "listado": ["IV"],
     "distancia": {
       "km": "225 km",
       "tiempo": "2 horas 16 mins"
